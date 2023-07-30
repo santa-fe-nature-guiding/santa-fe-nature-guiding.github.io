@@ -21,10 +21,9 @@ author: Enchanted Trails Adventures
 
 navbar-links:
   About Us: "aboutus"
-  Adventures by length:
+  Adventures:
     - Half-day: "adventures/halfday"
     - Full-day: "adventures/fullday"
-  Adventures by type:
     - Best of NM: "adventures/highlights"
     - Birding: "adventures/birding"
     - Wildflowers: "adventures/wildflowers"
@@ -40,14 +39,14 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/logo.png"
+avatar: "/assets/img/logo-green-2.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+# title-img: "/assets/img/logo-text.png"
 
 
 #####################################
@@ -135,22 +134,30 @@ keywords: "adventure,tour,guide,hike,hiking,new mexico,new,mexico,santa fe,santa
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAA060"
+navbar-col: "#f3c27f"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#567F69"
-footer-col: "#EAA060"
+link-col: "#296589"
+hover-col: "#54a170"
+footer-col: "#f3c27f"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
-footer-hover-col: "#567F69"
+footer-hover-col: "#54a170"
 
+# logo colors
+# #6bc6f7
+# #54a170
+# #f3c27f
+# #296589
+
+# other colors
 # #d96826
 # #DB8A43
 # #EAA060
 # #f9c299
+# #f3c27f
 # #5dd4be
 # #18b0ab
 # #567F69
@@ -159,6 +166,7 @@ footer-hover-col: "#567F69"
 # #2FA85B
 # #bf0a30
 # #ffd700
+# #54a170
 # https://brand.unm.edu/brand-style/color-palette/index.html
 
 # Alternatively, the navbar, footer, and page background can be set to an image
