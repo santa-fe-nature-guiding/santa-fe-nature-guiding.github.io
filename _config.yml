@@ -21,9 +21,17 @@ author: Enchanted Trails Adventures
 
 navbar-links:
   About Us: "aboutus"
-  Adventures:
-    - Half-day: "halfday"
-    - Full-day: "fullday"
+  Adventures by length:
+    - Half-day: "adventures/halfday"
+    - Full-day: "adventures/fullday"
+  Adventures by type:
+    - Best of NM: "adventures/highlights"
+    - Birding: "adventures/birding"
+    - Wildflowers: "adventures/wildflowers"
+    - Mushrooming: "adventures/mushrooming"
+    - Natural History: "adventures/naturalhistory"
+    - Geology: "adventures/geology"
+    - Astronomy: "adventures/astronomy"
   Contact us: "contact"
 
 ################
@@ -32,10 +40,10 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/logo.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -119,7 +127,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "adventure,tour,guide,hike,hiking,new mexico,new,mexico,santa fe,santa,fe,birding,geology,astronomy,photography,nature,wild,natural history,mushroom,wildflowers,flowers,sangre de cristos,jemez,los alamos,northern new mexico,"
 
 ######################################
 # --- Colours / background image --- #
@@ -127,17 +135,31 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#EAA060"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+hover-col: "#567F69"
+footer-col: "#EAA060"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-hover-col: "#567F69"
+
+# #d96826
+# #DB8A43
+# #EAA060
+# #f9c299
+# #5dd4be
+# #18b0ab
+# #567F69
+# #6B9E83
+# #5EC483
+# #2FA85B
+# #bf0a30
+# #ffd700
+# https://brand.unm.edu/brand-style/color-palette/index.html
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -293,3 +315,11 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
+
+#################################################################################
+# --- MY CUSTOM PARAMS --- #
+#################################################################################
+# Have a layout for a single adventure
+# specific adventures just fill out the requisite fields
+# pages listing adventures just

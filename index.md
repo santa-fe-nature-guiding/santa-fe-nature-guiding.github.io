@@ -11,13 +11,13 @@ Our adventures focus on bringing you to the most stunning destinations and hidde
 We offer private half-day and full-day tours and hikes in Northern New Mexico. We'll pick you up at your accommodations and TODO
 
 Each of our adventures is tailored and specialized to what you care about! We have adventures focused on:
+- Best of New Mexico
 - Birding
 - Bird Photography
 - Natural History & Ecology
 - Wildflowers
 - Mushrooming
 - Geology
-- Anthropology
 - Astronomy
 
 Interested? Contact us today to schedule your adventure!

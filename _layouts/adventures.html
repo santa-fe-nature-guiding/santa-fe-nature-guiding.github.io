@@ -1,0 +1,27 @@
+---
+layout: page
+---
+
+{% assign alladventures = site.data.adventures %}
+
+{{ content }}
+
+{% for adventurename in page.adventures %}
+  {% for adventure in alladventures %}
+    {% if adventurename == adventure.name %}
+      <h3>{{adventure.title}}</h3>
+      <!-- <span>{{adventure.description}}</span> -->
+
+      <ul>
+        <li><b>Description:</b> {{adventure.description}}</li>
+        <li><b>Dates:</b> {{adventure.dates}}</li>
+        <li><b>Start time:</b> {{adventure.start}}</li>
+        <li><b>Length:</b> {{adventure.length}}</li>
+        <li><b>Activity Level:</b> {{adventure.activitylevel}}</li>
+        <li><b>Food:</b> {{adventure.food}}</li>
+        <li><b>Price:</b> {{adventure.price}}</li>
+      </ul>
+      <hr>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
