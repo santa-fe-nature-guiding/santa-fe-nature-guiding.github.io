@@ -4,9 +4,9 @@ title: Contact us
 ---
 
 # Make a reservation
-Email: [enchantedtrails@gmail.com](mailto:enchantedtrails@gmail.com)
+Email: [enchantedtrailsadventures@gmail.com](mailto:enchantedtrailsadventures@gmail.com)
 
-Phone: [505-216-6691](phone:5052166691)
+Phone: [505-216-6691](tel:5052166691)
 
 Airbnb: TODO
 
