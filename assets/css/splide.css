@@ -1,0 +1,100 @@
+.splide__slide img {
+    width: 100%;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.splide {
+    background-color: #eee;
+    border-radius: 4px;
+    display: box;
+    overflow: hidden;
+    position: relative;
+    padding: 30px 60px;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.splide__arrow.custom {
+    background-color: #ccc;
+}
+
+.splide__arrow.custom:hover {
+    background-color: #f3c27f;
+}
+
+.splide__arrow.custom svg {
+    fill: #777;
+}
+
+.splide__pagination__page.custom.is-active {
+    background-color: #f3c27f;
+}
+
+
+.splide__controls {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem
+}
+
+.splide__controls .splide__pagination {
+    bottom: auto;
+    left: auto;
+    position: relative;
+    transform: none;
+    width: auto
+}
+
+.splide__toggle {
+    align-items: center;
+    background: #ccc;
+    border-radius: 50%;
+    border: 0px;
+    display: inline-flex;
+    height: 29px;
+    justify-content: center;
+    margin-right: -5px;
+    transition: background-color .2s ease;
+    width: 29px
+}
+
+.splide__toggle__play {
+    margin-left: 2px
+}
+
+.splide__toggle svg {
+    fill: #777;
+    height: 14px;
+    transition: fill .2s ease;
+    width: 14px
+}
+
+.splide__toggle:hover {
+    background: #f3c27f
+}
+
+.splide__progress {
+    background: #ccc;
+    margin-top: 1rem
+}
+
+.splide__progress__bar.orange-bg {
+    background: #f3c27f;
+    height: 2px;
+    transform: translateZ(0);
+    will-change: width
+}
+
+.splide__progress__slide {
+    background: #f3c27f;
+    height: 2px;
+    transition: width .4s ease;
+    width: 0
+}
+
+button:focus:not(:focus-visible) {
+    outline: none;
+    /* box-shadow: 1px 1px 5px rgba(1, 1, 0, .7); */
+  }
