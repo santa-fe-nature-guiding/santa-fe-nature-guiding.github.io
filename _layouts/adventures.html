@@ -10,50 +10,51 @@ layout: page
   {% for adventure in alladventures %}
     {% if adventurename == adventure.name %}
       <h3>{{adventure.title}}</h3>
-
-      <div id="{{adventure.name}}-splide" class="splide" role="group" aria-label="Splide Basic HTML Example">
-        <div class="splide__track">
-          <ul class="splide__list">
-            {% for img_path in adventure.images %}
-              <li class="splide__slide"><img src="/assets/img/{{img_path}}"/></li>
-            {% endfor %}
-          </ul>
+      {% if adventure.images.size > 0 %}
+        <div id="{{adventure.name}}-splide" class="splide" role="group" aria-label="Splide Basic HTML Example">
+          <div class="splide__track">
+            <ul class="splide__list">
+              {% for img_path in adventure.images %}
+                <li class="splide__slide"><img src="{{ img_path | relative_url }}"/></li>
+              {% endfor %}
+            </ul>
+          </div>
+          <div class="splide__progress">
+            <div class="splide__progress__bar orange-bg"></div>
+          </div>
+          <div class="splide__controls">
+            <button class="splide__toggle" type="button">
+              <svg
+                class="splide__toggle__play"
+                viewBox="0 0 24 24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d="m22 12-20 11v-22l10 5.5z"/>
+              </svg>
+              <svg
+                class="splide__toggle__pause"
+                viewBox="0 0 24 24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path d="m2 1v22h7v-22zm13 0v22h7v-22z"/>
+              </svg>
+            </button>
+            <ul class="splide__pagination"></ul>
+          </div>
         </div>
-        <div class="splide__progress">
-          <div class="splide__progress__bar orange-bg"></div>
-        </div>
-        <div class="splide__controls">
-          <button class="splide__toggle" type="button">
-            <svg
-              class="splide__toggle__play"
-              viewBox="0 0 24 24"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <path d="m22 12-20 11v-22l10 5.5z"/>
-            </svg>
-            <svg
-              class="splide__toggle__pause"
-              viewBox="0 0 24 24"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <path d="m2 1v22h7v-22zm13 0v22h7v-22z"/>
-            </svg>
-          </button>
-          <ul class="splide__pagination"></ul>
-        </div>
-      </div>
-      <script>
-        new Splide( "#{{adventure.name}}-splide", {
-          type: 'loop',
-          heightRatio: 10/16,
-          autoplay: true,
-          classes: {
-            pagination: 'splide__pagination',
-		        page: 'splide__pagination__page custom',
-            arrow: 'splide__arrow custom',
-          },
-        } ).mount();
-      </script>
+        <script>
+          new Splide( "#{{adventure.name}}-splide", {
+            type: 'loop',
+            heightRatio: 10/16,
+            autoplay: true,
+            classes: {
+              pagination: 'splide__pagination',
+              page: 'splide__pagination__page custom',
+              arrow: 'splide__arrow custom',
+            },
+          } ).mount();
+        </script>
+      {% endif %}
 
       <ul>
         <li><b>Description:</b> {{adventure.description}}</li>

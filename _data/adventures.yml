@@ -8,10 +8,10 @@
   food: "snacks & water"
   price: "$100 per person"
   images:
-    - santa_fe_canyon/bee2.jpg
-    - santa_fe_canyon/deer.jpg
-    - santa_fe_canyon/hummingbird2.jpg
-    - santa_fe_canyon/spider2.jpg
+    - assets/img/santa_fe_canyon/bee2.jpg
+    - assets/img/santa_fe_canyon/deer.jpg
+    - assets/img/santa_fe_canyon/hummingbird2.jpg
+    - assets/img/santa_fe_canyon/spider2.jpg
 - name: borrego
   title: "Bear Wallow"
   description: "Join us for a 4 mile hike through aspens, pines, and along Big Tesuque Creek. Learn about life in the Southern Rockies."
@@ -22,7 +22,7 @@
   food: "snacks & water"
   price: "$120 per person"
   images:
-    - borrego/nuthatch-nesting.jpg
+    - assets/img/borrego/nuthatch-nesting.jpg
 - name: borrego-wildflowers
   title: "Bear Wallow: Wildflowers"
   description: "Join us for a 4 mile hike through a variety of subalpine forest habitat in search of wildflowers."
@@ -32,7 +32,6 @@
   activitylevel: "moderate, 4mi and 1000ft elevation gain"
   food: "snacks & water"
   price: "$120 per person"
-  images: []
 - name: aspen-mushroom
   title: "Aspen Basin Mushrooming"
   description: "Join us for a mushroom hunting adventure in the high elevation subalpine forests of the Sangre De Cristos."
