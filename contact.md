@@ -4,7 +4,7 @@ title: Contact us
 ---
 
 # Make a reservation
-Email: [enchantedtrailsadventures@gmail.com](mailto:enchantedtrailsadventures@gmail.com)
+Email: [ben@santafenature.com](mailto:ben@santafenature.com)
 
 Phone: [505-216-6691](tel:5052166691)
 
