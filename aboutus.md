@@ -4,7 +4,7 @@ title: About us
 subtitle: Meet your naturalist & guide
 ---
 
-Welcome to Santa Fe Nature Guiding! SFNG is led by me, Ben Shulman, a long time field guide and naturalist. I have worked as a naturalist & field guide for National Geographic and Lindblad Expeditions from pole to pole: Antarctica, the Arctic, Alaska, Norway, British Columbia, Washington, Oregon, the Falkland Islands, and South Georgia Island. Though I love all aspects of Northern New Mexico's natural and human history, I specialize in birding, botany, ecology, and geology. I believe that natural history interpretation should be based in sound science and reveal the fascinating natural world we live in. I am also an accomplished nature & wildlife photographer, so bring your camera and your photography questions!
+Welcome to Santa Fe Nature Guiding! SFNG is led by me, Ben Shulman, a long time field guide and naturalist. I have worked as a naturalist & field guide for National Geographic and Lindblad Expeditions from pole to pole: Antarctica, the Arctic, Alaska, Norwagit, British Columbia, Washington, Oregon, the Falkland Islands, and South Georgia Island. Though I love all aspects of Northern New Mexico's natural and human history, I specialize in birding, botany, ecology, and geology. I believe that natural history interpretation should be based in sound science and reveal the fascinating natural world we live in. I am also an accomplished nature & wildlife photographer, so bring your camera and your photography questions!
 
 I moved to Santa Fe in 2022 and immediately fell in love with Northern New Mexico's natural beauty and natural history. I knew I had to start a guiding company to share Santa Fe's natural beauty with others, and thus Santa Fe Nature Guiding was born.
 

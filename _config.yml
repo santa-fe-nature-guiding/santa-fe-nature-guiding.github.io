@@ -46,7 +46,7 @@ round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-# title-img: "/assets/img/logo-text-v1-alt.png"
+title-img: "/assets/img/logo-text-v2.png"
 
 
 #####################################
@@ -73,7 +73,7 @@ social-network-links:
   instagram: santafenature
   tripadvisor: santafenature
 #  spotify: yourname
-  telephone: +15052166691
+  telephone: +15053030198
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
