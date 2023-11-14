@@ -1,16 +1,19 @@
 - name: santa-fe-canyon
   title: "Santa Fe Canyon: a riparian oasis"
   description: "Join us for a short hike through the Santa Fe Canyon and learn about life in and around riparian zones in the high elevation southwest."
-  dates: "April - November"
+  dates: "Year round"
   start: "9AM"
   length: "3 hours"
   activitylevel: "easy, approximately 2mi hike"
   food: "snacks & water"
   price: "$100 per person"
   images:
-    - assets/img/santa_fe_canyon/bee2.jpg
-    - assets/img/santa_fe_canyon/deer.jpg
     - assets/img/santa_fe_canyon/hummingbird2.jpg
+    - assets/img/santa_fe_canyon/grosbeak.jpg
+    - assets/img/santa_fe_canyon/deer.jpg
+    - assets/img/santa_fe_canyon/bee2.jpg
+    - assets/img/santa_fe_canyon/vireo.jpg
+    - assets/img/santa_fe_canyon/chat.jpg
     - assets/img/santa_fe_canyon/spider2.jpg
 - name: borrego
   title: "Bear Wallow"
@@ -51,7 +54,14 @@
   activitylevel: "moderate, 5mi and 1000ft elevation gain"
   food: "snacks, water"
   price: "$120 per person"
-  images: []
+  images:
+    - assets/img/diablo/diablo1.jpg
+    - assets/img/diablo/diablo2.jpg
+    - assets/img/diablo/diablo3.jpg
+    - assets/img/diablo/diablo4.jpg
+    - assets/img/diablo/diablo5.jpg
+    - assets/img/diablo/diablo6.jpg
+    - assets/img/diablo/diablo7.jpg
 - name: santa-fe-birding
   title: "Santa Fe Canyon: bird oasis"
   description: "Join us for a birding walk through Santa Fe Canyon. We'll look for hummingbirds, grosbeaks, warblers, and many more species. High quality binoculars are provided."
