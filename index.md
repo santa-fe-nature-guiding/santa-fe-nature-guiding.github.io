@@ -3,6 +3,11 @@ layout: home
 title: Santa Fe Nature Guiding
 subtitle: Adventures in the Land of Enchantment
 # subtitle: Enchanting lands, Expert naturalists
+cover-img:
+  - assets/img/aspen2.jpg
+  - assets/img/echo3.jpg
+  - assets/img/penitente.jpg
+  - assets/img/plaza1.jpg
 ---
 
 Embark on a journey of discovery with Santa Fe Nature Guiding. We are your gateway to the awe-inspiring landscapes and nature of Northern New Mexico. We invite you to explore the many natural wonders of the area with us. Guided by expert naturalists, each adventure promises an immersive experience into the nature of Northern New Mexico focusing on ecology, birding, geology, and botany. From deep canyons, red mesas, and riparian oases to the montane forests and alpine peaks, our carefully curated adventures unveil the natural history of the breathtaking terrain. We provide more than just a hike, but an educational adventure that will leave you with a profound appreciation of New Mexico’s natural history.
