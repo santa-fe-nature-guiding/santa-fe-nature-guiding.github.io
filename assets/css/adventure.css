@@ -1,0 +1,39 @@
+.adventure {
+    width: 100%;
+    padding: 0% 5%;
+}
+
+.adventure-block {
+    display: flex;
+    flex-direction: row;
+    @media (max-width: 800px) {
+        flex-direction: column;
+    }
+}
+
+.adventure h3 {
+    text-align: center;
+}
+
+.adventure .details {
+    /* display: inline-block; */
+    width: 40%;
+    margin-right: 4%;
+    vertical-align: top;
+    order: 1;
+    @media (max-width: 800px) {
+        width: 100%;
+        order: 2;
+        margin: 4% 0% 0% 0%;
+    }
+}
+
+.adventure .adventure-images {
+    /* display: inline-block; */
+    width: 55%;
+    order: 2;
+    @media (max-width: 800px) {
+        width: 100%;
+        order: 1;
+    }
+}

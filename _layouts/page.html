@@ -15,6 +15,10 @@ layout: base
         </div>
       {% endif %}
 
+      {% if page.image %}
+        <img src="{{ page.image | relative_url }}"/>
+      {% endif %}
+
       {{ content }}
 
       {% if page.after-content %}

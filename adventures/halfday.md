@@ -1,5 +1,6 @@
 ---
 layout: adventures
+full-width: true
 title: Half-day Adventures
 subtitle: Adventures lasting less than 5 hours
 adventures:

@@ -2,6 +2,7 @@
 layout: page
 title: About us
 subtitle: Meet your naturalist & guide
+image: assets/img/aboutme2.jpg
 ---
 
 Hi there! I'm Ben Shulman, your guide to the wonders of Santa Fe's natural landscape and the force behind Santa Fe Nature Guiding. I have worked for many years as a naturalist and field guide from Antarctica to the Arctic leading guests into wild places and teaching them about natural history. After many years of traveling the world as a guide, I am thrilled to be focusing on bringing people out into the nature of New Mexico.

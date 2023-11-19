@@ -20,17 +20,17 @@ author: Santa Fe Nature Guiding
 ###############################################
 
 navbar-links:
-  About Us: "aboutus"
+  About Me: "aboutme"
   Adventures:
     - Half-day: "adventures/halfday"
-    - Full-day: "adventures/fullday"
-    - Best of NM: "adventures/highlights"
-    - Birding: "adventures/birding"
-    - Wildflowers: "adventures/wildflowers"
-    - Mushrooming: "adventures/mushrooming"
-    - Natural History: "adventures/naturalhistory"
-    - Geology: "adventures/geology"
-    - Astronomy: "adventures/astronomy"
+    # - Full-day: "adventures/fullday"
+    # - Best of NM: "adventures/highlights"
+    # - Birding: "adventures/birding"
+    # - Wildflowers: "adventures/wildflowers"
+    # - Mushrooming: "adventures/mushrooming"
+    # - Natural History: "adventures/naturalhistory"
+    # - Geology: "adventures/geology"
+    # - Astronomy: "adventures/astronomy"
   Contact us: "contact"
 
 ################

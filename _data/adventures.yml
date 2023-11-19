@@ -1,5 +1,5 @@
 - name: santa-fe-canyon
-  title: "Santa Fe Canyon: a riparian oasis"
+  title: "Santa Fe Canyon: A riparian oasis"
   description: "Join us for a short hike through the Santa Fe Canyon and learn about life in and around riparian zones in the high elevation southwest."
   dates: "Year round"
   start: "9AM"
@@ -16,8 +16,8 @@
     - assets/img/santa_fe_canyon/chat.jpg
     - assets/img/santa_fe_canyon/spider2.jpg
 - name: borrego
-  title: "Bear Wallow"
-  description: "Join us for a 4 mile hike through aspens, pines, and along Big Tesuque Creek. Learn about life in the Southern Rockies."
+  title: "Borrego: Secrets of the Sangre de Cristo forests"
+  description: "Join us for a 4 mile hike through aspens, pines, and along Big Tesuque Creek. Learn about life in the Southern Rockies. Experience a wide-diversity of wildflowers and birds."
   dates: "May - November"
   start: "9AM"
   length: "4 hours"
@@ -36,9 +36,9 @@
   food: "snacks & water"
   price: "$120 per person"
 - name: aspen-mushroom
-  title: "Aspen Basin Mushrooming"
-  description: "Join us for a mushroom hunting adventure in the high elevation subalpine forests of the Sangre De Cristos."
-  dates: "July - August"
+  title: "Mushroom Hunting: Dangers and Delights in the Rockies"
+  description: "Join us for a mushroom hunting adventure in the high elevation subalpine forests of the Sangre De Cristos. We will learn to identify the delicious and the poisonous on this off-travel adventure."
+  dates: "July - September"
   start: "8AM"
   length: "5 hours"
   activitylevel: "moderate, 3mi and 1000ft elevation gain"
@@ -83,7 +83,7 @@
   price: "$250 per person"
   images: []
 - name: jemez
-  title: Gems of the Jemez Mountains
+  title: "Bandelier and Beyond: the Gems of the Jemez Mountains"
   description: "Join us for a trip to White Rock, Bandelier National Monument, Valles Caldera, and Los Alamos."
   dates: "Year-round"
   start: "morning, 8 or 9AM"
@@ -113,7 +113,7 @@
   price: "$250 per person"
   images: []
 - name: aspen-wildflowers
-  title: "Wildflowers of the Sangre de Cristos"
+  title: "Alpine Wildflowers: Little gems in the high mountains"
   description: "Join us for a walk through beautiful aspens and the southern rockies' wildflowers"
   dates: "May - August"
   start: "morning, 8 or 9AM"
@@ -123,8 +123,8 @@
   price: "$120 per person"
   images: []
 - name: aspen-fall
-  title: "A blaze of yellow: fall among aspens"
-  description: "Join us for a walk through beautiful aspens as they change colors"
+  title: "A Blaze of Yellow: fall among the aspens"
+  description: "Join us for a walk through beautiful aspens as they change colors."
   dates: "September - October"
   start: "Anytime of day"
   length: "3-4 hours"
