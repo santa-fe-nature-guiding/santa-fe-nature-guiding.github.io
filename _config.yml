@@ -21,8 +21,8 @@ author: Santa Fe Nature Guiding
 
 navbar-links:
   About Me: "aboutme"
-  Adventures:
-    - Half-day: "adventures/halfday"
+  Adventures: "adventures/all"
+    # - Half-day: "adventures/halfday"
     # - Full-day: "adventures/fullday"
     # - Best of NM: "adventures/highlights"
     # - Birding: "adventures/birding"
