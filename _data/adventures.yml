@@ -1,12 +1,16 @@
 - name: santa-fe-canyon
-  title: "Santa Fe Canyon: A riparian oasis"
-  description: "Join us for a short hike through the Santa Fe Canyon and learn about life in and around riparian zones in the high elevation southwest."
+  title: "Santa Fe Canyon: A Riparian Oasis"
+  description: >
+    Santa Fe Canyon is the best birding Santa Fe has to offer!
+    It's diversity of ecosystems provide habitat for a huge number of bird species.
+    The diversity of ecosystems means its also a wonderful place to see wildflowers.
+    Join us for a stroll through the Canyon and learn about life in and around riparian zones in the high elevation Southwest.
   dates: "Year round"
   start: "9AM"
   length: "3 hours"
   activitylevel: "easy, approximately 2mi hike"
   food: "snacks & water"
-  price: "$100 per person"
+  price: "$29.99 per person"
   images:
     - assets/img/santa_fe_canyon/hummingbird2.jpg
     - assets/img/santa_fe_canyon/grosbeak.jpg
@@ -16,44 +20,58 @@
     - assets/img/santa_fe_canyon/chat.jpg
     - assets/img/santa_fe_canyon/spider2.jpg
 - name: borrego
-  title: "Borrego: Secrets of the Sangre de Cristo forests"
-  description: "Join us for a 4 mile hike through aspens, pines, and along Big Tesuque Creek. Learn about life in the Southern Rockies. Experience a wide-diversity of wildflowers and birds."
+  title: "Borrego: Secrets of the Sangre de Cristos"
+  description: >
+    With elevation varying between 8,000 and 9,000 feet, the Borrego trail is a stunning walk through montane forest.
+    Along the way you'll experience a variety of micro-habitats as you hike through aspens, confifers, and along Big Tesuque Creek.
+    Learn about life in the Southern Rockies and experience a wide-diversity of birds and wildflowers.
+    Join us for this magical 4 mile hike.
   dates: "May - November"
   start: "9AM"
   length: "4 hours"
   activitylevel: "moderate, 4mi and 1000ft elevation gain"
   food: "snacks & water"
-  price: "$120 per person"
+  price: "$39.99 per person"
   images:
     - assets/img/borrego/nuthatch-nesting.jpg
-- name: borrego-wildflowers
-  title: "Bear Wallow: Wildflowers"
-  description: "Join us for a 4 mile hike through a variety of subalpine forest habitat in search of wildflowers."
-  dates: "May - September"
-  start: "9AM"
-  length: "4 hours"
-  activitylevel: "moderate, 4mi and 1000ft elevation gain"
-  food: "snacks & water"
-  price: "$120 per person"
+    - assets/img/borrego/evening2.jpg
+    - assets/img/borrego/hedgehog.jpg
+    - assets/img/borrego/grosbeak.jpg
+    - assets/img/borrego/orchid1.jpg
+    - assets/img/borrego/orchid2.jpg
+    - assets/img/borrego/evening1.jpg
+    - assets/img/borrego/clematis.jpg
 - name: aspen-mushroom
   title: "Mushroom Hunting: Dangers and Delights in the Rockies"
-  description: "Join us for a mushroom hunting adventure in the high elevation subalpine forests of the Sangre De Cristos. We will learn to identify the delicious and the poisonous on this off-travel adventure."
+  description: >
+    Mid to late summer means mushroom season in the mountains.
+    Join us for a mushroom hunting adventure in the high elevation subalpine forests of the Sangre De Cristos.
+    We will learn to identify the delicious and the poisonous on this off-trail adventure."
   dates: "July - September"
   start: "8AM"
   length: "5 hours"
   activitylevel: "moderate, 3mi and 1000ft elevation gain"
-  food: "snacks, water, and sauteed mushrooms"
-  price: "$120 per person"
-  images: []
+  food: "snacks, water, and any edible mushrooms we may find!"
+  price: "$59.99 per person"
+  images:
+    - assets/img/mushrooms/mushroom1.jpg
+    - assets/img/mushrooms/mushroom2.jpg
+    - assets/img/mushrooms/mushroom3.jpg
+    - assets/img/mushrooms/mushroom4.jpg
+    - assets/img/mushrooms/mushroom5.jpg
+    - assets/img/mushrooms/mushroom6.jpg
 - name: diablo-canyon
-  title: "Diablo Canyon: volcanoes, rifts, and the Rio Grande"
-  description: "Join us for a hike through Diablo Canyon to the Rio Grande. Learn about the geologic history of the Rio Grande Valley, and witness incredible scenery."
-  dates: "October - April"
-  start: "anytime of day"
-  length: "5 hours"
-  activitylevel: "moderate, 5mi and 1000ft elevation gain"
+  title: "Diablo Canyon: Volcanoes, Rifts, and the Rio Grande"
+  description: >
+    Join us for a hike through Diablo Canyon to the Rio Grande.
+    Learn about how this fascinating landscape was formed by volcanoes, tectonic forces, rifts, and water.
+    Witness the incredible scenery as you walk through a lava lake on your way to the Rio Grande.
+  dates: "Year round"
+  start: "9AM"
+  length: "4-5 hours"
+  activitylevel: "moderate, 5-6mi and 1000ft elevation gain"
   food: "snacks, water"
-  price: "$120 per person"
+  price: "$39.99 per person"
   images:
     - assets/img/diablo/diablo1.jpg
     - assets/img/diablo/diablo2.jpg
@@ -62,19 +80,54 @@
     - assets/img/diablo/diablo5.jpg
     - assets/img/diablo/diablo6.jpg
     - assets/img/diablo/diablo7.jpg
-- name: santa-fe-birding
-  title: "Santa Fe Canyon: bird oasis"
-  description: "Join us for a birding walk through Santa Fe Canyon. We'll look for hummingbirds, grosbeaks, warblers, and many more species. High quality binoculars are provided."
-  dates: "April - November"
-  start: "morning, 8AM"
-  length: "4 hours"
-  activitylevel: "easy, 2mi walk"
+- name: alpine-wildflowers
+  title: "Alpine Wildflowers: Little Fireworks of the Rockies"
+  description: >
+    Summer above 10,000 feet in the Sangre de Cristos is wildflower season.
+    As snow recedes and days lengthen, wildflowers explode in the subalpine forests and alpine meadows.
+    Throughout the summer different wildflowers bloom creating a tapestry of reds, yellows, blues, whites, and purples.
+    Join us for a high altitude adventure as we seek out the amazing diversity of flowers.
+  dates: "May - August"
+  start: "8AM"
+  length: "5 hours"
+  activitylevel: "variable, from moderate to difficult. 4-8mi"
   food: "snacks, water"
-  price: "$120 per person"
-  images: []
+  price: "$49.99 per person"
+  images:
+    - assets/img/alpine/monkshood.jpg
+    - assets/img/alpine/gentian.jpg
+    - assets/img/alpine/fireweed.jpg
+    - assets/img/alpine/roseroot.jpg
+    - assets/img/alpine/lousewort.jpg
+    - assets/img/alpine/harebell.jpg
+- name: aspen-fall
+  title: "A Blaze of Yellow: Fall among the Aspens"
+  description: >
+    Late September into October is the time for fall colors in New Mexico.
+    The forests of the Sangre de Cristos are transformed into a sea of yellow and gold as the forest prepares for winter.
+    Hike through massive stands of aspen that turn the trail into a carpet of yellow and bathe visitors in a golden glow.
+    Join us for this magical walk in the woods.
+  dates: "September - October"
+  start: "1PM"
+  length: "3-4 hours"
+  activitylevel: "moderate, up to 5mi and 600ft of elevation gain"
+  food: "snacks, water"
+  price: "$39.99 per person"
+  images:
+    - assets/img/fall-aspens/aspen1.jpg
+    - assets/img/fall-aspens/aspen2.jpg
+    - assets/img/fall-aspens/aspen3.jpg
+    - assets/img/fall-aspens/aspen4.jpg
+    - assets/img/fall-aspens/aspen5.jpg
+    - assets/img/fall-aspens/aspen6.jpg
+    - assets/img/fall-aspens/aspen7.jpg
 - name: bosque-del-apache
-  title: Bosque del Apache
-  description: "Join us for a trip to Bosque Del Apache, one of the key rest stops along the central flyway. These wetlands along the Rio Grande are critical for many bird species during migration and winter."
+  title: "Bosque del Apache: The birding capital of New Mexico"
+  description: >
+    Join us for a trip to Bosque Del Apache, one of the key rest stops along the central flyway.
+    These wetlands along the Rio Grande are critical for many bird species during migration and winter.
+    Huge flocks arrive during migration and stay over winter in the rich flood plains around the Rio Grande.
+    Sandhill Cranes, Snow Geese, and many species of waterfowl are found in abundance here.
   dates: "October - April"
   start: "morning, 5 or 6AM"
   length: "9 hours"
@@ -84,9 +137,9 @@
   images: []
 - name: jemez
   title: "Bandelier and Beyond: the Gems of the Jemez Mountains"
-  description: "Join us for a trip to White Rock, Bandelier National Monument, Valles Caldera, and Los Alamos."
+  description: "Join us for a trip to Bandelier National Monument, White Rock, Valles Caldera, and Los Alamos."
   dates: "Year-round"
-  start: "morning, 8 or 9AM"
+  start: "8AM"
   length: "8 hours"
   activitylevel: "moderate, about 5 miles of walking throughout the day"
   food: "lunch, snacks, water"
@@ -104,33 +157,13 @@
   images: []
 - name: abiquiu
   title: "Abiquiu: Red Rock Country"
-  description: "A trip to Abiquiu, Ghost Ranch, Plaza Blanca, etc."
+  description: "A trip to Plaza Blanca, Rio Chama, Echo Amphitheater, and more."
   dates: "October - May"
-  start: "morning, 8 or 9AM"
+  start: "8AM"
   length: "8 hours"
   activitylevel: "moderate, about 6 miles of walking throughout the day"
   food: "lunch, snacks, water"
   price: "$250 per person"
-  images: []
-- name: aspen-wildflowers
-  title: "Alpine Wildflowers: Little gems in the high mountains"
-  description: "Join us for a walk through beautiful aspens and the southern rockies' wildflowers"
-  dates: "May - August"
-  start: "morning, 8 or 9AM"
-  length: "4 hours"
-  activitylevel: "moderate, about 4mi and 600ft of gain"
-  food: "snacks, water"
-  price: "$120 per person"
-  images: []
-- name: aspen-fall
-  title: "A Blaze of Yellow: fall among the aspens"
-  description: "Join us for a walk through beautiful aspens as they change colors."
-  dates: "September - October"
-  start: "Anytime of day"
-  length: "3-4 hours"
-  activitylevel: "moderate, about 4mi of walking and 600ft of elevation gain"
-  food: "snacks, water"
-  price: "$120 per person"
   images: []
 - name: astronomy
   title: "Dark skies, starry nights"

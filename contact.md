@@ -14,6 +14,4 @@ Viator: TODO
 
 # Review us
 
-Tripadvisor
-
-Google Maps
+[Tripadvisor](https://www.tripadvisor.com/Attraction_Review-g60958-d26848060-Reviews-Santa_Fe_Nature_Guiding-Santa_Fe_New_Mexico.html)

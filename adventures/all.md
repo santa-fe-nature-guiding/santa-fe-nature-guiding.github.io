@@ -6,7 +6,7 @@ adventures:
   - santa-fe-canyon
   - diablo-canyon
   - borrego
-  - aspen-mushroom
   - alpine-wildflowers
+  - aspen-mushroom
   - aspen-fall
 ---
