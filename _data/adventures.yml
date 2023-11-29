@@ -121,6 +121,24 @@
     - assets/img/fall-aspens/aspen5.jpg
     - assets/img/fall-aspens/aspen6.jpg
     - assets/img/fall-aspens/aspen7.jpg
+- name: full-moon
+  title: "New Mexico in the Moonlight: Hiking under the full moon"
+  description: >
+   Join us for a magical night hiking under the full moon.
+   When the full moon rises over the Sangre de Cristos, it transforms the high desert surrounding Santa Fe.
+   See the beauty of New Mexico at night, as we walk by moonlight.
+   Listen to coyotes howl, the wind blow through the junipers, and the silence of night.
+   Gaze up at the moon, see the twinkling lights of Santa Fe and Los Alamos, and maybe even glimpse a Moon Ring.
+   Experience New Mexico like you never have before.
+  dates: October - May
+  start: "late evening, varies by moonrise and sunset"
+  length: "2-3 hours"
+  activitylevel: "easy to moderate, 2-4mi"
+  food: ""
+  price: "$29.99 per person"
+  images:
+    - assets/img/moon-ring-1.jpg
+    - assets/img/moon-ring-2.jpg
 - name: bosque-del-apache
   title: "Bosque del Apache: The birding capital of New Mexico"
   description: >
