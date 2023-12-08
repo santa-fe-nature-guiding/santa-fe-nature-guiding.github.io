@@ -14,4 +14,4 @@ Embark on a journey of discovery with Santa Fe Nature Guiding. We are your gatew
 
 Immerse yourself in diverse ecosystems and geology, where every step becomes a lesson and every vista tells a story. Our expert naturalists have a passion for science, education, and the outdoors and we ensure each excursion is tailored to you and your interests. Whether you’re a seasoned nature enthusiast, or a first-time explorer, we will create an unforgettable outing for you. Join us on a journey and connect with the splendor of New Mexico’s nature, one trail at a time.
 
-Contact us to book now or browse our adventures!
+[Book now](https://fareharbor.com/embeds/book/santafenature/?full-items=yes) or [browse our adventures](adventures/all/)!

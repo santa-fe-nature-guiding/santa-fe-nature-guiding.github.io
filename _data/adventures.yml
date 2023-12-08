@@ -11,6 +11,7 @@
   activitylevel: "easy, approximately 2mi hike"
   food: "snacks & water"
   price: "$29.99 per person"
+  bookurl: https://fareharbor.com/embeds/book/santafenature/items/510491/?full-items=yes&flow=1086527
   images:
     - assets/img/santa_fe_canyon/hummingbird2.jpg
     - assets/img/santa_fe_canyon/grosbeak.jpg
@@ -32,6 +33,7 @@
   activitylevel: "moderate, 4mi and 1000ft elevation gain"
   food: "snacks & water"
   price: "$39.99 per person"
+  bookurl: https://fareharbor.com/embeds/book/santafenature/items/510504/?full-items=yes&flow=1086527
   images:
     - assets/img/borrego/nuthatch-nesting.jpg
     - assets/img/borrego/evening2.jpg
@@ -53,6 +55,7 @@
   activitylevel: "moderate, 3mi and 1000ft elevation gain"
   food: "snacks, water, and any edible mushrooms we may find!"
   price: "$59.99 per person"
+  bookurl: https://fareharbor.com/embeds/book/santafenature/items/510513/?full-items=yes&flow=1086527
   images:
     - assets/img/mushrooms/mushroom1.jpg
     - assets/img/mushrooms/mushroom2.jpg
@@ -72,6 +75,7 @@
   activitylevel: "moderate, 5-6mi and 1000ft elevation gain"
   food: "snacks, water"
   price: "$39.99 per person"
+  bookurl: https://fareharbor.com/embeds/book/santafenature/items/510497/?full-items=yes&flow=1086527
   images:
     - assets/img/diablo/diablo1.jpg
     - assets/img/diablo/diablo2.jpg
@@ -93,6 +97,7 @@
   activitylevel: "variable, from moderate to difficult. 4-8mi"
   food: "snacks, water"
   price: "$49.99 per person"
+  bookurl: https://fareharbor.com/embeds/book/santafenature/items/510507/?full-items=yes&flow=1086527
   images:
     - assets/img/alpine/monkshood.jpg
     - assets/img/alpine/gentian.jpg
@@ -113,6 +118,7 @@
   activitylevel: "moderate, up to 5mi and 600ft of elevation gain"
   food: "snacks, water"
   price: "$39.99 per person"
+  bookurl: https://fareharbor.com/embeds/book/santafenature/items/510514/?full-items=yes&flow=1086527
   images:
     - assets/img/fall-aspens/aspen1.jpg
     - assets/img/fall-aspens/aspen2.jpg
@@ -136,6 +142,7 @@
   activitylevel: "easy to moderate, 2-4mi"
   food: ""
   price: "$29.99 per person"
+  bookurl: https://fareharbor.com/embeds/book/santafenature/items/510499/?full-items=yes&flow=1086527
   images:
     - assets/img/moon-ring-1.jpg
     - assets/img/moon-ring-2.jpg
