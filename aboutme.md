@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About us
+title: About Me
 subtitle: Meet your naturalist & guide
 image: assets/img/aboutme2.jpg
 ---
