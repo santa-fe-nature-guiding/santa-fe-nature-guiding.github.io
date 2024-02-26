@@ -168,8 +168,9 @@
   price: "$29.99 per person"
   bookurl: https://fareharbor.com/embeds/book/santafenature/items/510499/?full-items=yes&flow=1086527
   images:
-    - assets/img/moon-ring-1.jpg
-    - assets/img/moon-ring-2.jpg
+    - assets/img/moonlight/moonlight-4.jpeg
+    - assets/img/moonlight/moon-ring-1.jpg
+    - assets/img/moonlight/moon-ring-2.jpg
 - name: bosque-del-apache
   title: "Bosque del Apache: The birding capital of New Mexico"
   description: >
