@@ -10,7 +10,7 @@
   length: "3 hours"
   activitylevel: "easy, approximately 2mi hike"
   food: "snacks & water"
-  price: "$29.99 per person"
+  price: "$250 + tax for groups up to 10, contact us for larger groups"
   bookurl: https://fareharbor.com/embeds/book/santafenature/items/510491/?full-items=yes&flow=1086527
   images:
     - assets/img/santa_fe_canyon/hummingbird2.jpg
@@ -32,7 +32,7 @@
   length: "4 hours"
   activitylevel: "moderate, 4mi and 1000ft elevation gain"
   food: "snacks & water"
-  price: "$39.99 per person"
+  price: "$350 + tax for groups up to 10, contact us for larger groups"
   bookurl: https://fareharbor.com/embeds/book/santafenature/items/510504/?full-items=yes&flow=1086527
   images:
     - assets/img/borrego/nuthatch-nesting.jpg
@@ -54,7 +54,7 @@
   length: "5 hours"
   activitylevel: "moderate, 3mi and 1000ft elevation gain"
   food: "snacks, water, and any edible mushrooms we may find!"
-  price: "$59.99 per person"
+  price: "$600 + tax for groups up to 6, contact us for larger groups"
   bookurl: https://fareharbor.com/embeds/book/santafenature/items/510513/?full-items=yes&flow=1086527
   images:
     - assets/img/mushrooms/mushroom1.jpg
@@ -74,7 +74,7 @@
   length: "4-5 hours"
   activitylevel: "moderate, 5-6mi and 300ft elevation gain"
   food: "snacks, water"
-  price: "$39.99 per person"
+  price: "$350 + tax for groups up to 10, contact us for larger groups"
   bookurl: https://fareharbor.com/embeds/book/santafenature/items/510497/?full-items=yes&flow=1086527
   images:
     - assets/img/diablo/diablo9.jpg
@@ -96,7 +96,7 @@
   length: "3-4 hours"
   activitylevel: "moderate, 5mi and 500ft elevation gain"
   food: "snacks, water"
-  price: "$39.99 per person"
+  price: "$350 + tax for groups up to 10, contact us for larger groups"
   bookurl: "https://fareharbor.com/embeds/book/santafenature/items/514045/?full-items=yes&flow=1086527"
   images:
     - assets/img/nambe/nambe3.jpg
@@ -120,7 +120,7 @@
   length: "5 hours"
   activitylevel: "variable, from moderate to difficult. 4-8mi"
   food: "snacks, water"
-  price: "$49.99 per person"
+  price: "$500 + tax for groups up to 6, contact us for larger groups"
   bookurl: https://fareharbor.com/embeds/book/santafenature/items/510507/?full-items=yes&flow=1086527
   images:
     - assets/img/alpine/monkshood.jpg
@@ -141,7 +141,7 @@
   length: "3-4 hours"
   activitylevel: "moderate, up to 5mi and 600ft of elevation gain"
   food: "snacks, water"
-  price: "$39.99 per person"
+  price: "$400 + tax for groups up to 10, contact us for larger groups"
   bookurl: https://fareharbor.com/embeds/book/santafenature/items/510514/?full-items=yes&flow=1086527
   images:
     - assets/img/fall-aspens/aspen1.jpg
@@ -165,7 +165,7 @@
   length: "2-3 hours"
   activitylevel: "easy to moderate, 2-4mi"
   food: ""
-  price: "$29.99 per person"
+  price: "$300 + tax for groups up to 10, contact us for larger groups"
   bookurl: https://fareharbor.com/embeds/book/santafenature/items/510499/?full-items=yes&flow=1086527
   images:
     - assets/img/moonlight/moonlight-4.jpeg
@@ -183,7 +183,7 @@
   length: "9 hours"
   activitylevel: "easy, 2mi walk"
   food: "lunch, snacks, water"
-  price: "$250 per person"
+  price: "Contact us for pricing"
   images: []
 - name: jemez
   title: "Bandelier and Beyond: the Gems of the Jemez Mountains"
@@ -193,7 +193,7 @@
   length: "8 hours"
   activitylevel: "moderate, about 5 miles of walking throughout the day"
   food: "lunch, snacks, water"
-  price: "$250 per person"
+  price: "Contact us for pricing"
   images: []
 - name: taos
   title: Taos & the Rio Grande
@@ -203,7 +203,7 @@
   length: "8 hours"
   activitylevel: "moderate, about 5 miles of walking throughout the day"
   food: "lunch, snacks, water"
-  price: "$250 per person"
+  price: "Contact us for pricing"
   images: []
 - name: abiquiu
   title: "Abiquiu: Red Rock Country"
@@ -213,7 +213,7 @@
   length: "8 hours"
   activitylevel: "moderate, about 6 miles of walking throughout the day"
   food: "lunch, snacks, water"
-  price: "$250 per person"
+  price: "Contact us for pricing"
   images: []
 - name: astronomy
   title: "Dark skies, starry nights"
@@ -223,5 +223,5 @@
   length: "3-4 hours"
   activitylevel: "low, just a couple hundred feet of walking"
   food: "snacks, water"
-  price: "$120 per person"
+  price: "Contact us for pricing"
   images: []
