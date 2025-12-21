@@ -20,7 +20,7 @@ author: Santa Fe Nature Guiding
 ###############################################
 
 navbar-links:
-  Book Now: "https://fareharbor.com/embeds/book/santafenature/?full-items=yes"
+  # Book Now: "https://fareharbor.com/embeds/book/santafenature/?full-items=yes"
   Adventures: "adventures/all"
   About Me: "aboutme"
     # - Half-day: "adventures/halfday"
